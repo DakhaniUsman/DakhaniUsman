@@ -37,12 +37,9 @@
         50% { opacity: 0.8; }
     }
 </style>
-</head>
-<body>
 
 <h1 class="name">Dakhani Usman</h1>
 
-</body>
 <!---
 DakhaniUsman/DakhaniUsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
