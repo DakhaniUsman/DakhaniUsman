@@ -37,8 +37,8 @@ I'm a passionate **Front-End Developer** with a strong foundation in core web te
 
 | Platform | Link |
 | -------- | ---- |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) | [Connect with me on LinkedIn](https://www.linkedin.com/in/usman-dakhani) 🌐 |
-| ![Email](https://img.shields.io/badge/Email-Dakhaniusman0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [Send me an email](mailto:dakhaniusman0@gmail.com) 📧 |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) | https://www.linkedin.com/in/usman-dakhani 🌐 |
+| ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) | dakhaniusman0@gmail.com 📧 |
 
 ---
 
