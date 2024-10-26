@@ -29,7 +29,7 @@ I'm a passionate **Front-End Developer** with a strong foundation in core web te
 ---
 
 ### 📌 Pinned Projects
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge)](https://github.com/dakhaniusman/portfolio) | https://dakhaniusman.github.io/portfolio 💼 |
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge)](https://github.com/your-username/portfolio)  (https://dakhaniusman.github.io/portfolio) 👨🏻‍💻
 
 ---
 
