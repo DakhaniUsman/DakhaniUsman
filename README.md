@@ -1,4 +1,4 @@
-
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
 <style>
     * {
         margin: 0;
@@ -40,6 +40,7 @@
 
 <h1 class="name">Dakhani Usman</h1>
 
+</svg>
 <!---
 DakhaniUsman/DakhaniUsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
