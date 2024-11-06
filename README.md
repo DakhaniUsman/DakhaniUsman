@@ -12,6 +12,7 @@ I'm a passionate **Front-End Developer** with a strong foundation in core web te
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Github-F05032?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
