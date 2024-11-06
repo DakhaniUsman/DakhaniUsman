@@ -17,7 +17,7 @@ I'm a passionate **Front-End Developer** with a strong foundation in core web te
 
 ### 🎯 Currently Learning
 - Exploring **React.js** to enhance my front-end development skills.
-- Working on advanced **JavaScript** concepts for a deeper understanding of dynamic web applications.
+- Working on advanced **JavaScript** concepts to better understand dynamic web applications.
 
 ---
 
