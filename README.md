@@ -26,7 +26,8 @@ I'm a passionate **Front-End Developer** with a strong foundation in core web te
 
 ![Usman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DakhaniUsman&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakhaniUsman&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DakhaniUsman&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DakhaniUsman&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
